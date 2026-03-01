@@ -24,7 +24,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | Desarrollo de login de usuarios |
 | **Descripción** | Como usuario quiero ingresar a la aplicación para realizar transacciones |
 | **Prioridad** | *[Alta] [Media] [Baja]* |
-| **Estimación** | *Puntos de historia* |
+| **Estimación** | *21* |
 
 | Campo | Descripción |
 |------|-------------|
@@ -32,7 +32,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | Registro de nuevos usuarios |
 | **Descripción** | Como nuevo usuario quiero registrarme ingresando mis datos personales para crear una cuenta |
 | **Prioridad** | *[Alta] [Media] [Baja]* |
-| **Estimación** | *Puntos de historia* |
+| **Estimación** | *6.5* |
 
 | Campo | Descripción |
 |------|-------------|
@@ -40,7 +40,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | Recuperación de contraseña |
 | **Descripción** | Como usuario quiero recuperar mi contraseña en caso de olvido para volver a acceder a mi cuenta |
 | **Prioridad** | *[Alta] [Media] [Baja]* |
-| **Estimación** | *Puntos de historia* |
+| **Estimación** | *13* |
 
 | Campo | Descripción |
 |------|-------------|
@@ -48,7 +48,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | Autenticación multifactor (2FA) |
 | **Descripción** | Como usuario, quiero una segunda capa de verificación (por SMS o correo) para aumentar la seguridad al iniciar sesión |
 | **Prioridad** | *[Alta] [Media] [Baja]* |
-| **Estimación** | *Puntos de historia* |
+| **Estimación** | *34* |
 
 ### 3. Tareas:
 
@@ -148,3 +148,5 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Descripción** | Validar el código 2FA, permitir activar/desactivar 2FA y guardar la preferencia de usuario de forma segura |
 | **Tareas requisito** | TR-11 |
 
+## Video planing poker
+[Video de planificación de poker](https://youtu.be/EFJP2CBXCKQ)
