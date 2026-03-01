@@ -83,3 +83,11 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 ### 5. Backlog:
 
 ![alt text](image-18.png)
+
+### 6. Planeacion de sprints:
+
+Decidimos esta planeacion de forma unanime ya que es el mejor modo para el desarrollo de la actividad y tareas las cuales se pueden realizar de forma ordenada y sin retrasos, ademas de que se pueden realizar de forma paralela lo cual es una gran ventaja para el desarrollo del proyecto, juto a esto de se pueden realizar de forma iterativa lo que permite ir mejorando el producto de forma continua y asi poder entregar un producto de calidad al final del proyecto.
+
+De esta manera explotando las habilidades de cada miembro del equipo y asi poder realizar un trabajo de calidad y con un buen resultado final.
+
+![alt text](image-19.png)
